@@ -8,7 +8,7 @@
 </h2>
 <p>🚀 Linguagem de programação que permite que você trabalhe rapidamente e integrar sistemas de forma mais eficaz.</p>
 
-Tabela de conteúdos
+<h2>Tabela de conteúdos</h2>
 =================
 <!--ts-->
    * [Sobre](#Sobre)
