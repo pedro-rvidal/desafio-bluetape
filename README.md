@@ -8,18 +8,7 @@
 </h2>
 <p>🚀 Linguagem de programação que permite que você trabalhe rapidamente e integrar sistemas de forma mais eficaz.</p>
 
-<h2>Tabela de conteúdos</h2>
-=================
-<!--ts-->
-   * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
-<!--te-->
+<h2>Bibliotecas Ultilizadas</h2>
+* Selenium
+* Beautiful Soap
+* Pandas
